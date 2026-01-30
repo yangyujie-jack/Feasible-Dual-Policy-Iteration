@@ -1,5 +1,5 @@
 # Feasible-Dual-Policy-Iteration
-Code of the paper "Breaking Safety Paradox with Feasible Dual Policy Iteration".
+Code of the paper "Breaking Safety Paradox with Feasible Dual Policy Iteration".\
 [paper](https://openreview.net/forum?id=BHSSV1nHvU)
 
 ## Installation
