@@ -9,7 +9,7 @@ conda create -n fpi python=3.10
 conda activate fpi
 
 # install safety-gymnasium
-git clone git@git.tsinghua.edu.cn:yangyj21/safety-gymnasium.git
+git clone git@github.com:yangyujie-jack/safety-gymnasium.git
 cd safety-gymnasium
 pip install -e .
 
